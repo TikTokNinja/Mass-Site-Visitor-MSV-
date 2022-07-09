@@ -1,1 +1,1 @@
-# Mass-Site-Visitor-MSV-
+Mass Site Visitor (MSV) is designed to generate a large amount of traffic to websites of your choice through a list of proxy servers in multithreaded mode. It starts automatic browser sessions in the background on your PC and routes their traffic through a proxy. MSV allows you to customize the behavior of visitors from a simple page visit to complex conditional clicks on any elements of your web page.
